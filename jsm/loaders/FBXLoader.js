@@ -45,7 +45,7 @@ import {
 } from 'three';
 
 import * as fflate from '../libs/fflate.module.js';
-import { NURBSCurve } from '../curves/NURBSCurve.js';
+import { NURBSCurve } from '../Curves/NURBSCurve.js';
 
 let fbxTree;
 let connections;
